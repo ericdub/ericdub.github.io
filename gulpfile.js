@@ -8,16 +8,14 @@ var sourcemaps = require('gulp-sourcemaps');
 gulp.task('default', ['compress','minify-css']);
 
 gulp.task('compress', function() {
-  
+
   return gulp.src('dev-assets/js/**/*.js')
     .pipe(uglify())
     .pipe(gulp.dest('assets/js'));
-	
+
 });
 gulp.task('minify-css', function() {
   return gulp.src('dev-assets/css/**/*.css')
     .pipe(cleanCSS({compatibility: 'ie8'}))
     .pipe(gulp.dest('assets/css'));
-});
-
-
+}); 
