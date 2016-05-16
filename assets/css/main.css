@@ -107,7 +107,7 @@ hr {
     font-size: 25px
 }
 #headerwrap {
-    background: url("/assets/img/header-bg-12.jpg") center center no-repeat relative;
+    background: url("/assets/img/header-bg-12.jpg") center no-repeat relative;
     margin-top: 60px;
     padding-top: 140px;
     min-height: 500px;
