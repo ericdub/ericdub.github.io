@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm Eric! I've been playing around with Web stuff since 2002, for work and fun. I have quite a bit of expereince with front-end developement but am most comfortable ubnder the hood.
 
-  My primary skills are: <mark>PHP</mark>,<mark>Javascript</mark>,<mark>MySQL</mark>,<mark>Apache</mark>,  and <mark>Eating Pizza</mark>
+  My primary skills are: <mark>PHP</mark>,<mark>Javascript</mark>,<mark>MySQL</mark>,<mark>Apache</mark>,  and <mark>CSS</mark>.
 
 content:
   - title: Projects # Title for the section
