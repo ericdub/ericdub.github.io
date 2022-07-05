@@ -93,8 +93,7 @@ content:
         title: University of Missouri - Columbia
         caption: 1996-2000
         sub_title: BJ Journalism
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+       
         description: | # this will include new lines to allow paragraphs
          I very quickly figured out I had no interest at all in being a journalist, but loved messing about on the Web. I taught myself HTML and well, here I am.
 
