@@ -53,7 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   My primary skills are: <mark>PHP</mark>,<mark>Javascript</mark>,<mark>MySQL</mark>,<mark>Apache</mark>,<mark>Twig</mark>, and <mark>CSS</mark>.
 
 content:
-  - title: Projects # Title for the section
+  - title: Hello # Title for the section
+  
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
