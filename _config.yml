@@ -87,7 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             I was a founding member of Mizzou's Web Communications team. Dreamweaver baby! I set up their first offical blog, email newsletter, and analytics.
 
-    content:
+    
       - layout: left
         title: University of Missouri - Columbia
         link: missouri.edu
