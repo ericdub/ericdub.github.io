@@ -54,16 +54,16 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-     content:
-      - layout: left
-        title: Stephens College 
-        link: stephens.edu
-        # link_text: boringcompany.com
-        sub_title: Webmaster
-        caption: October 2002 - September 2006
+   layout: list # Type of content section (list/text)
+   content:
+    - layout: left
+      title: Stephens College 
+      link: stephens.edu
+      # link_text: boringcompany.com
+      sub_title: Webmaster
+      caption: October 2002 - September 2006
         
-        description: | # this will include new lines to allow paragraphs
+      description: | # this will include new lines to allow paragraphs
             I was a founding member of Mizzou's Web Communications team. Dreamweaver baby! I set up their first offical blog, email newsletter, and analytics.
 
 
