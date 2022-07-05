@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Eric Watkins
+name: Eric Watkins JR
 title: Senior Web Developer
 email: eric.r.watkins@gmail.com
 website: www.github.com/ericdub
@@ -82,7 +82,7 @@ content:
         title: Stephens College 
         link: stephens.edu
         # link_text: boringcompany.com
-        sub_title: Webmaster
+        sub_title: Webmaster 
         caption: October 2002 - September 2006
         
         description: | # this will include new lines to allow paragraphs
