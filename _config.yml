@@ -89,15 +89,15 @@ content:
             I was a founding member of Mizzou's Web Communications team. Dreamweaver baby! I set up their first offical blog, email newsletter, and analytics.
 
     
-      - layout: left
-        title: University of Missouri - Columbia
-        link: missouri.edu
-        # link_text: boringcompany.com
-        sub_title: Interner Admistrator
-        caption: September 2006 - January 2012
+      # - layout: left
+      #   title: University of Missouri - Columbia
+      #   link: missouri.edu
+      #   # link_text: boringcompany.com
+      #   sub_title: Interner Admistrator
+      #   caption: September 2006 - January 2012
         
-        description: | # this will include new lines to allow paragraphs
-            I was a founding member of Mizzou's Web Communications team. Dreamweaver baby! I set up their first offical blog, email newsletter, and analytics.
+      #   description: | # this will include new lines to allow paragraphs
+      #       I was a founding member of Mizzou's Web Communications team. Dreamweaver baby! I set up their first offical blog, email newsletter, and analytics.
    
 
   - title: Education # Title for the section
