@@ -76,6 +76,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Veterans United Home Loans
+        link: vu.com
+        # link_text: boringcompany.com
+        sub_title: Web Developer
+        caption: February 2017 - Present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+             Backend LAMP development for the VU family of companies and sites. Among other things, my team is responsible of lead posting and routing, A/B testing, marketing and transactional emails, and third party software/API integration.
+
+     - layout: left
+        title: Missouri Credit Union
+        link: missouricu.org
+        # link_text: boringcompany.com
+        sub_title: Web Developer
+        caption: June 2014 - January 2017
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Maintained the credit union's entire online prescence, including the public site, email communicqtions, and member home banking portal. 
+
+      - layout: left
         title: Daniel Boone Regional Library
         link: dbrl.org
         # link_text: boringcompany.com
