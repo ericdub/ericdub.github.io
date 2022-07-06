@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Eric Watkins JR
-title: Senior Web Developer
+name: Eric Watkins
+title: Web Developer
 email: eric.r.watkins@gmail.com
 website: www.github.com/ericdub
 
@@ -73,6 +73,32 @@ content:
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
+  layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Veterans United Home Loans
+        link: vu.com
+        # link_text: boringcompany.com
+        sub_title: Web Developer
+        caption: February 2017 - Present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+             Backend LAMP development for the VU family of companies and sites. Among other things, my team is responsible of lead posting and routing, A/B testing, marketing and transactional emails, and third party software/API integration.
+
+  layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Missouri Credit Union
+        link: missouricu.org
+        # link_text: boringcompany.com
+        sub_title: Web Developer
+        caption: June 2014 - January 2017
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            Maintained the credit union's entire online prescence, including the public site, email communicqtions, and member home banking portal. 
+
     layout: list # Type of content section (list/text)
     content:
       - layout: left
