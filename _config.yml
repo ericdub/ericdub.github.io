@@ -87,11 +87,11 @@ content:
             Backend LAMP development for the VU family of companies and sites. Among other things, my team is responsible of lead posting and routing, AB testing, marketing and transactional emails, and third party software API integration.
      
       - layout: left
-        title: Veterans United Home Loans
-        link: vu.com
+        title: Missouri Credit Union
+        link: missouricu.org
         # link_text: boringcompany.com
         sub_title: Web Developer
-        caption: February 2017 - Present
+        caption: June 2014 - January 2016
         quote: >
           
         description: | # this will include new lines to allow paragraphs
