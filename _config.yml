@@ -15,7 +15,7 @@ website: www.github.com/ericdub
 darkmode: true
 
 # Social links
-twitter_username: Carlos_TheDwarf
+
 github_username:  ericdub
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -61,7 +61,7 @@ content:
         title: Veterans United Home Loans
         link: vu.com
         # link_text: boringcompany.com
-        sub_title: Full Stack Developer
+        sub_title: Senior Full Stack Developer
         caption: February 2017 - Present
         quote: >
           
